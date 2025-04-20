@@ -14,7 +14,7 @@ This project aims to:
 - Decompose bond yields into expectations and term premium components.
 - Provide empirical insights into the dynamics of term premia over time.
 
-The modeling draws inspiration from established frameworks such as the Adrian, Crump, and Moench (2013) approach ("Pricing the Term Structure with Linear Regressions") and related dynamic factor models.
+The modeling is based on established framework from the Adrian, Crump, and Moench (2013) approach ("Pricing the Term Structure with Linear Regressions") and related dynamic factor models.
 
 ## Repository Structure
 
